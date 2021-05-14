@@ -25,14 +25,11 @@ Here are some ideas to get you started:
 
 <h2>Profile stats</h2>
 
-<div align="center">
   <a href="https://github.com/kalpita01">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpita01&show_icons=true&hide=issues&count_private=true" />
-  </a>
-  <a href="https://github.com/kalpita01">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpita01&layout=compact" />
   </a>
-</div>
+
 
 
 
