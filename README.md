@@ -1,11 +1,10 @@
 
 <h2>Hi 👋, I'm kalpita</h2>
 
-I am a computer science engineer and Full stack developer 💻. Interested in making life easier
+I am a computer science engineer. Interested in making life easier
 
-- 🔭  I’m currently working on ReactJS.
-- 🌱  I’m currently learning frameworks
-- 👯  I’m looking to collaborate on covidhelp
+- 🔭  I’m currently working on CP.
+- 🌱  I’m currently learning Algorithms
 - ⚡  Available for Internship opportunities
 
 <!--
