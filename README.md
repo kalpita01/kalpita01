@@ -1,11 +1,11 @@
 
 <h2>Hi 👋, I'm kalpita</h2>
 
-I am a computer science engineer. Interested in making life easier
+I am a pre-final year CSE student. 
 
-- 🔭  I’m currently working on CP.
-- 🌱  I’m currently learning Algorithms
-- ⚡  Available for Internship opportunities
+- 🔭  I’m currently working on Frameworks.
+- 🌱  I’m currently learning React
+
 
 <!--
 **kalpita01/kalpita01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
